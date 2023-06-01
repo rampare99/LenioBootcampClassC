@@ -8,3 +8,5 @@ In order to contribute, you need to do the following things:
 6. Create a pull request to the main repository using GitHub's UI
 
 You can contact us if you have any questions or need help with anything.
+
+Este es un mensaje super importante.
